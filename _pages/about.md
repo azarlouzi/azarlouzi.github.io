@@ -7,8 +7,8 @@ author_profile: true
 
 I am Azar Louzi, a PhD student at [LPSM](https://www.lpsm.paris/en/index) -- a joint [CNRS](https://www.cnrs.fr/en), [Sorbonne Université](https://www.sorbonne-universite.fr/en) and [Université Paris Cité](https://u-paris.fr/en/) laboratory.
 I am a member of the [Financial and Actuarial Mathematics, Numerical Probability](https://www.lpsm.paris/en/equipes/mathfi/index) team.
-My thesis work revolves around [Multilevel Learning Schemes and Financial Applications](https://theses.fr/en/s301253).
-I am co-advised by [Noufel Frikha](https://www.pantheonsorbonne.fr/page-perso/nfrikha) and [Stéphane Crépey](https://perso.lpsm.paris/~crepey/).
+My thesis work revolves around [Multilevel Learning Schemes and Financial Applications](https://theses.fr/s301253).
+I am co-advised by [Noufel Frikha](https://nfrikha.pages.math.cnrs.fr/) and [Stéphane Crépey](https://sites.google.com/view/stephane-crepey/home).
 
 Publications
 ------
