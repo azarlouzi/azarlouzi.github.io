@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Azar Louzi"
+title                    : "Azar Louzi, PhD"
 title_separator          : "-"
 name                     : &name "Azar Louzi"
 description              : &description "PhD Student in Applied Mathematics"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "louzy@lpsm.paris"
+    email                : "azar.louzi@lpsm.paris"
   generatedFields:
     date:
       type               : "date"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  email            : "louzy@lpsm.paris"
+  email            : "azar.louzi@lpsm.paris"
 
 
 # Reading Files
