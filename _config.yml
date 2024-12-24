@@ -82,8 +82,8 @@ analytics:
 author:
   name             : #"Azar Louzi"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Applied Mathematics"
-  location         : "Université Paris Cité"
+  bio              : "PhD in Applied Mathematics"
+  location         : #""
   employer         : #"LPSM"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VjYplVwAAAAJ"
