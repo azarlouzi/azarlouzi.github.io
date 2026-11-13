@@ -11,12 +11,13 @@ I am a recipient of the [Canada Impact+ Research Training Awards](https://sshrc-
 
 I was previously a postdoctoral researcher at [LPSM](https://www.lpsm.paris/en/index), [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I was working with [Gilles Pagès](https://www.lpsm.paris/users/pages/index).
 My PhD thesis revolved around [Multilevel Approximation Schemes for the Value-at-Risk and Expected Shortfall](https://theses.fr/2024UNIP7309), and was co-supervised by [Stéphane Crépey](https://sites.google.com/view/stephane-crepey/home) and [Noufel Frikha](https://nfrikha.pages.math.cnrs.fr).
+
 Here is my [CV](/files/azar_louzi.pdf).
 
 Publications
 ------
-* Dear GD where is the ERM? Estimating the probability that gradient descent fails on a universal attention head. Anastasis Kratsios, Azar Louzi, Xuwei Yang. Forthcoming.
-* A weighted Poincaré inequality for semi-log-concave measures. Azar Louzi. Forthcoming.
+* Dear GD Where Is the ERM? Estimating the Probability that Gradient Descent Fails on a Universal Attention Head. Anastasis Kratsios, Azar Louzi, Xuwei Yang. Forthcoming.
+* A Weighted Poincaré Inequality for Semi-log-concave Measures. Azar Louzi. Forthcoming.
 * Langevin Dynamics with Lojasiewicz Potentials. Azar Louzi, Gilles Pagès. Forthcoming.
 * Nested Elicitability of the Expected Shortfall. Azar Louzi. Forthcoming.
 * Stochastic Gradient Descent Revisited. Azar Louzi. 2024. [arXiv](https://arxiv.org/abs/2412.06070). [Hal](https://hal.science/hal-04808083). [Bib](/files/bib/sgd.bib).
