@@ -7,7 +7,7 @@ author_profile: true
 I am Azar Louzi, a postdoctoral fellow at [Fields Institute](https://www.fields.utoronto.ca).
 I am working with [Anastasis Kratsios](https://anastasiskratsios.github.io) on foundations of interpretable AI reasoning, with applications to mathematical finance.
 I am a member of [Principles of Intelligence](https://princint.ai), and am also affiliated with [Vector Institute](https://vectorinstitute.ai) and [McMaster University](https://math.mcmaster.ca).
-I am a recipient of the [Canada Impact+ Research Training Awards](https://sshrc-crsh.canada.ca/en/funding/opportunities/canada-impact-plus-research-training-awards.aspx).
+I am a [Canada Impact+ Research Training Award](https://sshrc-crsh.canada.ca/en/funding/opportunities/canada-impact-plus-research-training-awards.aspx) recipient.
 
 I was previously a postdoctoral researcher at [LPSM](https://www.lpsm.paris/en/index), [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I was working with [Gilles Pagès](https://www.lpsm.paris/users/pages/index).
 My PhD thesis revolved around [Multilevel Approximation Schemes for the Value-at-Risk and Expected Shortfall](https://theses.fr/2024UNIP7309), and was co-supervised by [Stéphane Crépey](https://sites.google.com/view/stephane-crepey/home) and [Noufel Frikha](https://nfrikha.pages.math.cnrs.fr).
